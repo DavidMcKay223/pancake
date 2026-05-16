@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/ConsoleApp/" />
+  <Folder Name="/UnitTest/" />
+  <Folder Name="/WebDevelopment/">
+    <Project Path="WebDevelopment/pancake.BlazorApp/pancake.BlazorApp.csproj" />
+  </Folder>
+</Solution>
